@@ -1,13 +1,15 @@
-Group members:
-  Jennifer Kim (kim00954)
-  Matthew Vilaysack (vilay016)
 
-Contributions:
-  We both worked on it in call and attended office hours when we needed help together.
+BattleBoats
 
-How to compile:
-  javac Game.java
+This is an application built with Java that my partner and I built in a university course. BattleBoats, like its name suggests, is a spin-off of the famous board game Battleship. In addition to the 1x1 attacks of a normal game, there are special moves that can strike the enemy's entire row or column, or even strike a 3x3 attack.
 
-Additional Features: -
-Known bugs or defects: -
-Outside sources: -
+To compile and run, 
+simply do
+
+```
+javac Game.java
+java game
+```
+
+
+
